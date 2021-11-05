@@ -1,4 +1,4 @@
-package com.liuxiaocs.jvm.t1;
+package com.liuxiaocs.jvm.t1.stack;
 
 /**
  * 局部变量的线程安全问题
